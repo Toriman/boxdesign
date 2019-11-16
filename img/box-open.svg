@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="234.456" height="189.39" viewBox="0 0 234.456 189.39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #473434;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(230.616 286.39)">
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M22.953,0,30.6,13.252,22.953,26.5H7.651L0,13.252,7.651,0Z" transform="matrix(0.156, 0.988, -0.988, 0.156, -66.769, -217.58)"/>
+    <path id="Icon_awesome-pen-nib" data-name="Icon awesome-pen-nib" class="cls-1" d="M9.685,9.841a4.538,4.538,0,0,0-3.071,2.932L0,32.615l1.042,1.042L11.685,23.014a3.435,3.435,0,1,1,1.6,1.6L2.645,35.26,3.687,36.3,23.53,29.688a4.538,4.538,0,0,0,2.932-3.071L29.5,15.882,20.42,6.807ZM35.3,5.259,31.043,1a3.405,3.405,0,0,0-4.815,0l-4.01,4.01L31.3,14.083l4.01-4.01a3.405,3.405,0,0,0,0-4.815Z" transform="matrix(0.07, -0.998, 0.998, 0.07, -123.981, -152.053)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-2" width="111.904" height="103.07" rx="3" transform="translate(-187.057 -286.39) rotate(25)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-2" width="12" height="59" rx="1" transform="translate(-138 -156)"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-2" width="11.779" height="58.897" rx="1" transform="translate(-92.402 -231.634) rotate(-97)"/>
+    <path id="Exclusion_1" data-name="Exclusion 1" class="cls-1" d="M-3083.331-639.514h0c-.045-.056-4.5-5.644-8.833-12.248a94.135,94.135,0,0,1-6.074-10.48c-1.832-3.8-2.761-6.862-2.761-9.088a17.555,17.555,0,0,1,5.175-12.494A17.553,17.553,0,0,1-3083.331-689a17.554,17.554,0,0,1,12.494,5.175,17.555,17.555,0,0,1,5.175,12.494c0,2.225-.929,5.283-2.761,9.088a94.228,94.228,0,0,1-6.074,10.48c-4.33,6.6-8.652,12.021-8.834,12.248Zm-.172-42.646a5.006,5.006,0,0,0-5,5,5.005,5.005,0,0,0,5,5,5.006,5.006,0,0,0,5-5A5.006,5.006,0,0,0-3083.5-682.16Z" transform="translate(3069.502 489.159)"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" class="cls-1" width="30" height="30" transform="translate(-76 -162)"/>
+  </g>
+</svg>

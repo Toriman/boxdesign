@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fce8e8;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.064" y1="1.055" x2="1.114" y2="-0.105" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fed576"/>
+      <stop offset="0.26" stop-color="#f47133"/>
+      <stop offset="0.61" stop-color="#bc3081"/>
+      <stop offset="1" stop-color="#4c63d2"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_36" data-name="Group 36" transform="translate(-1003 -966)">
+    <g id="Box_open" data-name="Box open">
+      <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="35" cy="35" r="35" transform="translate(1003 966)"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(1021 984)">
+      <g id="Layer_1" data-name="Layer 1">
+        <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-2" width="35" height="35" rx="6.48"/>
+        <g id="_Group_" data-name="&lt;Group&gt;" transform="translate(6.218 6.228)">
+          <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" class="cls-3" d="M10.974,5H21.726c.239.119.6.119.836.239A5.71,5.71,0,0,1,27.1,9.181a9.557,9.557,0,0,1,.358,1.792V21.485a8.29,8.29,0,0,1-1.433,3.7,6.582,6.582,0,0,1-5.376,2.27H11.691a6.558,6.558,0,0,1-4.42-1.433A6.582,6.582,0,0,1,5,20.7V12.335a9.043,9.043,0,0,1,.119-1.792A5.853,5.853,0,0,1,9.66,5.406Zm-3.7,11.348v4.659a4.085,4.085,0,0,0,4.42,4.42q4.659.179,9.318,0c2.748,0,4.3-1.672,4.42-4.42q.179-4.659,0-9.318a4.2,4.2,0,0,0-4.42-4.42q-4.659-.179-9.318,0a4.085,4.085,0,0,0-4.42,4.42Z" transform="translate(-4.992 -5)"/>
+          <path id="_Compound_Path_2" data-name="&lt;Compound Path&gt;" class="cls-3" d="M9.64,15.493A5.865,5.865,0,0,1,15.493,9.64a5.973,5.973,0,0,1,5.853,5.853,5.865,5.865,0,0,1-5.853,5.853A5.973,5.973,0,0,1,9.64,15.493Zm5.853-3.7a3.643,3.643,0,1,0,3.584,3.584,3.584,3.584,0,0,0-3.584-3.584Z" transform="translate(-4.088 -4.097)"/>
+          <path id="_Path_" data-name="&lt;Path&gt;" class="cls-3" d="M18.34,9.674A1.386,1.386,0,0,1,19.774,8.24a1.541,1.541,0,0,1,1.433,1.433,1.433,1.433,0,0,1-2.867,0Z" transform="translate(-2.395 -4.37)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
